@@ -1,4 +1,4 @@
-<a href=#proj>Projects</a>
+<a href="#proj">Projects</a>
 <text>|</text>
 <a href=#res>Resume</a>
 
