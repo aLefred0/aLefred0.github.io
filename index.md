@@ -1,6 +1,6 @@
 
 <head>
-  <div class="logo">
+  <div class="Logo">
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
