@@ -1,7 +1,16 @@
-<header>
+<section>
+<a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
+<img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
+  </a>
+<br>
+<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a>
+  | 
+<a href="https://github.com/aLefred0">Github </a><br>
+</section>
+<aside>
 <h1>Alfred W. Jacob</h1>
 <p>ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
-</header>
+</aside>
 <nav>
 <a href="#me">About Me</a>
 |
@@ -11,13 +20,6 @@
 </nav>  
 <body>
 <br>
-<a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
-<img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
-  </a>
-<br>
-<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a>
-  | 
-<a href="https://github.com/aLefred0">Github </a><br>
 <br>
 <h3 id="me">About Me</h3>
 <p>I am a third-year college student pursuing a Bachelor of Engineering with Honors in Computer Science at Birla Institute of Technology and Science, Pilani (BITS Pilani). <br>
