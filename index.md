@@ -1,6 +1,6 @@
 <a href="#proj">Projects</a>
 <text>|</text>
-<a href=#res>Resume</a>
+<a href="#res">Resume</a>
 
 <br>
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
