@@ -15,6 +15,7 @@
 <p>I am a third-year college student pursuing a Bachelor of Engineering with Honors in Computer Science at Birla Institute of Technology and Science, Pilani (BITS Pilani). <br>
   I like to develop solutions to problems</p>
 <br><br>
-<a id="res" href="https://github.com/aLefred0/aLefred0.github.io/blob/md/Resume.pdf">
+<h3 id="res">Resume</h3>
+<a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/Resume.pdf">
 Resume
   </a>
