@@ -8,7 +8,7 @@
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
-<h2>Alfred W. Jacob</h2>
+<title>Alfred W. Jacob</title>
 <p>ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
 <a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a><br>
 <a href="https://github.com/aLefred0">Github </a><br>
