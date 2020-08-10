@@ -1,5 +1,5 @@
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
-<img SRC="Profile.jpeg" alt="Alfred W. Jacob" width="150" height="150">
+<img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
 <h2>Alfred W. Jacob</h2>
 <p>ML Enthusiast | BITS Pilani CS Junior</p>
