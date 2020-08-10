@@ -1,17 +1,20 @@
 <head>
-  
+  <div class="row">
+    <div class="column">
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
 <br>
-<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a>
-  | 
-<a href="https://github.com/aLefred0">Github </a><br>
-  
-<article>
+<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a> 
+      | 
+      <a href="https://github.com/aLefred0">Github </a><br>
+  </div>
+  <div class="column">
+
 <h1>Alfred W. Jacob</h1>
 <p>ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
-</article>
+  </div>
+</div>
 </head>
 <nav>
 <a href="#me">About Me</a>
