@@ -11,8 +11,7 @@
 <article>
 <h1>Alfred W. Jacob</h1>
 <p>ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
-</aside>
-</artcile>
+</article>
 <nav>
 <a href="#me">About Me</a>
 |
