@@ -1,4 +1,5 @@
 <a href=#proj>Projects</a>
+<p>|</p>
 <a href=#res>Resume</a>
 
 <br>
