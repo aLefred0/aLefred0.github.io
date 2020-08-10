@@ -15,7 +15,8 @@
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
 <br>
-<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a><br>
+<a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a>
+  | 
 <a href="https://github.com/aLefred0">Github </a><br>
 <br>
 <h3 id="me">About Me</h3>
