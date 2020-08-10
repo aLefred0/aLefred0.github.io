@@ -13,8 +13,10 @@
   </div>
 <h1>___________________________Alfred W. Jacob</h1>
 <p>__________________________ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
-
-
+<br>
+<br>
+<br>
+<br>
 <nav>
 <a href="#me">About Me</a>
 |
