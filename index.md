@@ -1,5 +1,11 @@
+<section class="page-header">
+      <h1 class="project-name">Alfred W. Jacob</h1>
+      <h2 class="project-tagline">ML Enthusiast | App Developer | BITS Pilani CS Junior</h2>
+      
+      
+    </section>
 <section>
-  <nav>
+  
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
