@@ -11,8 +11,8 @@
       <a href="https://github.com/aLefred0">Github </a><br>
     </header>
   </div>
-<h1>_____________________Alfred W. Jacob</h1>
-<p>_____________________ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
+<h1>___________________________Alfred W. Jacob</h1>
+<p>__________________________ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
 
 
 <nav>
