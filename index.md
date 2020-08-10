@@ -1,3 +1,4 @@
+<img SRC="https://github.com/aLefred0/aLefred0.github.io/blob/md/Profile.jpeg">
 <h2>Alfred W. Jacob</h2>
 <p>ML Enthusiast | BITS Pilani CS Junior</p>
 <a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a><br>
