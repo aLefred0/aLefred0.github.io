@@ -1,3 +1,7 @@
+<a href=#proj>Projects</a>
+<a href=#res>Resume</a>
+
+<br>
 <a href="https://github.com/aLefred0/aLefred0.github.io/blob/md/">
 <img SRC="Prof2.jpeg" alt="Alfred W. Jacob" width="150" height="150">
   </a>
@@ -9,3 +13,7 @@
 <h3>About Me</h3>
 <p>I am a third-year college student pursuing a Bachelor of Engineering with Honors in Computer Science at Birla Institute of Technology and Science, Pilani (BITS Pilani). <br>
   I like to develop solutions to problems</p>
+<br><br>
+<a id="res" href="https://github.com/aLefred0/aLefred0.github.io/blob/md/Resume.pdf">
+Resume
+  </a>
