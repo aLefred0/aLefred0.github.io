@@ -6,11 +6,12 @@
 <a href="https://www.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin </a>
   | 
 <a href="https://github.com/aLefred0">Github </a><br>
-</section>
+
 <aside>
 <h1>Alfred W. Jacob</h1>
 <p>ML Enthusiast | App Developer | BITS Pilani CS Junior</p>
 </aside>
+</section>
 <nav>
 <a href="#me">About Me</a>
 |
